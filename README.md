@@ -1,2 +1,2 @@
-# roadmap-python-developer
+# About
 This repository aims to follow the Python developer roadmap obtained from the website: https://roadmap.sh/python
