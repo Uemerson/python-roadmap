@@ -23,3 +23,9 @@ Some scripts have comments to help exemplify and understand their purpose:
 ```
   This script exemplify the python identifiers, open it for more information
 ```
+
+3. indentation.py
+
+```
+  This script exemplify the python indentation, open it for more information
+```
