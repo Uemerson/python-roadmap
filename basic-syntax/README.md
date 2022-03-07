@@ -6,9 +6,9 @@ You can run those script using python3 following by name of script file, for exa
 $ python3 hello-python.py
 ```
 
-# About scripts
+# About scripts and markdowns
 
-Some scripts have comments to help exemplify and understand their purpose:
+Some scripts and markdowns have comments to help exemplify and understand their purpose:
 
 ---
 
@@ -18,14 +18,14 @@ Some scripts have comments to help exemplify and understand their purpose:
   This script exemplify the print command
 ```
 
-2. python-identifiers.py
+2. python-identifiers.md
 
 ```
-  This script exemplify the python identifiers, open it for more information
+  This markdown exemplify the Python identifiers, open it for more information
 ```
 
-3. indentation.py
+3. indentation.md
 
 ```
-  This script exemplify the python indentation, open it for more information
+  This markdown exemplify the Python indentation, open it for more information
 ```
