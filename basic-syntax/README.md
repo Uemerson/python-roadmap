@@ -12,20 +12,26 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 
 ---
 
-1. hello-python.py
+[1. hello-python.py](./hello-python.py)
 
 ```
   This script exemplify the print command
 ```
 
-2. python-identifiers.md
+[2. python-identifiers.md](./python-identifiers.md)
 
 ```
   This markdown exemplify the Python identifiers, open it for more information
 ```
 
-3. indentation.md
+[3. indentation.md](./indentation.md)
 
 ```
   This markdown exemplify the Python indentation, open it for more information
+```
+
+[4. naming-conventions.md](./naming-conventions.md)
+
+```
+  This markdown exemplify the naming conventions for Python identifiers, open it for more information
 ```
