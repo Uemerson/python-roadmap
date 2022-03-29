@@ -14,12 +14,6 @@
 
 The list of all the keywords is given below
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 <center>
 
 |          |         |        |
