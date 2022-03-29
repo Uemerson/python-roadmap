@@ -35,3 +35,9 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the naming conventions for Python identifiers, open it for more information
 ```
+
+[4. python-keywords.md](./python-keywords.md)
+
+```
+  This markdown exemplify the Python keywords, open it for more information
+```
