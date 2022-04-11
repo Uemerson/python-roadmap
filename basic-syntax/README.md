@@ -47,3 +47,9 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the Python Multi-Line Statements, open it for more information
 ```
+
+[6. quotation-statements.md](./quotation-statements.md)
+
+```
+  This markdown exemplify the Quotation in Python, open it for more information
+```
