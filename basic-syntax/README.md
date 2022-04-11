@@ -41,3 +41,9 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the Python keywords, open it for more information
 ```
+
+[5. multi-line-statements.md](./multi-line-statements.md)
+
+```
+  This markdown exemplify the Python Multi-Line Statements, open it for more information
+```
