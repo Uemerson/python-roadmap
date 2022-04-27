@@ -59,3 +59,9 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the Comment in Python, open it for more information
 ```
+
+[8. multiple-statements.md](./multiple-statements.md)
+
+```
+  This markdown exemplify the Multiple Statements in Python, open it for more information
+```
