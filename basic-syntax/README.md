@@ -53,3 +53,9 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the Quotation in Python, open it for more information
 ```
+
+[7. comments.md](./comments.md)
+
+```
+  This markdown exemplify the Comment in Python, open it for more information
+```
