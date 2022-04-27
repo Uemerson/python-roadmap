@@ -65,3 +65,13 @@ Some scripts and markdowns have comments to help exemplify and understand their 
 ```
   This markdown exemplify the Multiple Statements in Python, open it for more information
 ```
+
+# References and credits
+
+The texts contained in the markdowns were obtained from the following sites:
+
+- [tutorialspoint](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+
+- [visualgit](https://visualgit.readthedocs.io/)
+
+- [programiz](https://www.programiz.com/)
