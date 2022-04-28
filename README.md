@@ -8,4 +8,4 @@ open directories to view more information.
 
 ---
 
-Made with ❤, by Uemerson Pinheiro Junior
+Made with ❤, by [me](https://github.com/Uemerson/)
