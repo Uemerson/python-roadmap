@@ -12,9 +12,9 @@ Every value in Python has a datatype. Since everything is an object in Python pr
 
 Integers, floating point numbers and complex numbers fall under Python numbers category. They are defined as int, float and complex classes in Python.
 
-In the script [python-numbers](python-numbers.py) there are examples of the use of `type()` and `isinstance()` functions. The `type()` function is used to know which class a variable or a value belongs to. The `isinstance()` function is used to check if an object belongs to a particular class.
+In the script [python-numbers](./scripts/python-numbers.py) there are examples of the use of `type()` and `isinstance()` functions. The `type()` function is used to know which class a variable or a value belongs to. The `isinstance()` function is used to check if an object belongs to a particular class.
 
-Output of [python-numbers](python-numbers.py):
+Output of [python-numbers](./scripts/python-numbers.py):
 
 ```
 10 is of type <class 'int'>
@@ -48,7 +48,7 @@ String is sequence of Unicode characters. We can use single quotes or double quo
 Subsets of strings can be taken using the slice operator ([ ] and [:] ) with indexes starting at 0 in the beginning of the string and working their way from -1 at the end.
 The plus (+) sign is the string concatenation operator and the asterisk (\*) is the repetition operator.
 
-In the script [python-strings](python-strings.py) there are examples of strings. Output of the script:
+In the script [python-strings](./scripts/python-strings.py) there are examples of strings. Output of the script:
 
 ```
 Hello World!
@@ -70,7 +70,7 @@ Declaring a list is pretty straight forward. Items separated by commas are enclo
 
 The values stored in a list can be accessed using the slice operator `[ ]` and `[:]` with indexes starting at 0 in the beginning of the list and working their way to end -1. The plus (+) sign is the list concatenation operator, and the asterisk (\*) is the repetition operator.
 
-In the script [python-list](python-list.py) there are examples of lists. Output of the script:
+In the script [python-list](./scripts/python-list.py) there are examples of lists. Output of the script:
 
 ```
 ['abcd', 900, 3.55, 'Uemerson', 80.1]
@@ -86,7 +86,7 @@ abcd
 A tuple is another sequence data type that is similar to the list. A tuple consists of a number of values separated by commas. Unlike lists, however, tuples are enclosed within parentheses.
 
 The main differences between lists and tuples are: Lists are enclosed in brackets `[ ]` and their elements and size can be changed, while tuples are enclosed in parentheses `( )` and cannot be updated. Tuples can be thought of as read-only lists.
-In the file [python-tuple](python-tuple.py) there are examples of tuples. Output of the script:
+In the file [python-tuple](./scripts/python-tuple.py) there are examples of tuples. Output of the script:
 
 ```
 ('abcd', 900, 3.55, 'Uemerson', 80.1)
@@ -103,7 +103,7 @@ Python's dictionaries are kind of hash table type. They work like associative ar
 
 Dictionaries are enclosed by curly braces `{ }` and values can be assigned and accessed using square braces `[]`.
 
-In the file [python-dictionary](python-dictionary.py) there are examples of tuples. Output of the script:
+In the file [python-dictionary](./scripts/python-dictionary.py) there are examples of tuples. Output of the script:
 
 ```
 This is one
