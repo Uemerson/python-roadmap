@@ -42,6 +42,14 @@ Sum: 35
 Data type of num_sum: <class 'int'>
 ```
 
+# Key Points to Remember
+
+- Type Conversion is the conversion of an object from one data type to another data type.
+- Implicit Type Conversion is automatically performed by the Python interpreter.
+- Python avoids the loss of data in Implicit Type Conversion.
+  Explicit Type Conversion is also called Type Casting, the data types of objects are converted using predefined functions by the user.
+- In Type Casting, loss of data may occur as we enforce the object to a specific data type.
+
 # References and credits
 
 The texts contained in the markdowns were obtained from the following sites:
