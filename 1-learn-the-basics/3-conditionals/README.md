@@ -8,9 +8,9 @@ Python if Statement is used for decision-making operations. It contains a body o
 
 When you want to justify one condition while the other condition is not true, then you use Python if else statement.
 
-In the script [if-elif-else](if-elif-else.py) there are examples of the use of `if`, `elif` and `else` statements.
+In the script [if-elif-else](./scripts/if-elif-else.py) there are examples of the use of `if`, `elif` and `else` statements.
 
-Output of [if-elif-else](if-elif-else.py):
+Output of [if-elif-else](./scripts/if-elif-else.py):
 
 ```
 Enter x value: 10
@@ -28,7 +28,7 @@ In many cases a pattern contains subpatterns, and success or failure is determin
 
 A secondary outcome of pattern matching may be one or more name bindings. We may say “the pattern binds a value to a name”. When subpatterns tried until the first success, only the bindings due to the successful subpattern are valid; when trying until the first failure, the bindings are merged. Several more rules, explained below, apply to these cases.
 
-In the script [match](match.py) there's an example of the use of `match` statement. Output of the script:
+In the script [match](./scripts/match.py) there's an example of the use of `match` statement. Output of [match](./scripts/match.py):
 
 ```
 Number
