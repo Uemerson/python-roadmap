@@ -70,4 +70,12 @@ The maxHeap is
 The Max val is 84
 ```
 
-<!-- https://www.geeksforgeeks.org/stack-in-python/ -->
+# References and credits
+
+The texts contained and the scripts in this markdown were obtained from the following sites:
+
+- [roadmap.sh](https://roadmap.sh/python)
+- [geeksforgeeks - stack](https://www.geeksforgeeks.org/stack-in-python/)
+- [geeksforgeeks - queue](https://www.geeksforgeeks.org/queue-in-python/)
+- [geeksforgeeks - min heap](https://www.geeksforgeeks.org/min-heap-in-python/)
+- [geeksforgeeks - max heap](https://www.geeksforgeeks.org/max-heap-in-python/)
