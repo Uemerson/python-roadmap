@@ -50,8 +50,14 @@ Data type of num_sum: <class 'int'>
   Explicit Type Conversion is also called Type Casting, the data types of objects are converted using predefined functions by the user.
 - In Type Casting, loss of data may occur as we enforce the object to a specific data type.
 
+# Exceptions
+
+A Python program stops running immediately when it hits an error. These errors in Python can either be syntax errors or exceptions.
+
 # References and credits
 
 The texts contained in the markdowns were obtained from the following sites:
 
 - [programiz](https://www.programiz.com/python-programming/type-conversion-and-casting)
+
+- [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
