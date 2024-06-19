@@ -78,6 +78,9 @@ ZeroDivisionError: division by zero
 This time, you encountered an **exception error**. This type of error occurs when syntactically correct Python code produces an error. The last line of the message specifies the type of exception error you encountered.
 
 Instead of simply stating `exception error`, Python specifies the type of exception it encountered. In this instance, it was a `ZeroDivisionError`. Python includes [various built-in exceptions](https://docs.python.org/3/library/exceptions.html) and also allows for the creation of user-defined exceptions.
+
+## Raising an Exception in Python
+
 In certain situations, you may want to halt your program by raising an exception when a specific condition arises. You can achieve this using the `raise` keyword.
 
 You can even complement the statement with a custom message. Imagine you are creating a small program that only accepts numbers up to 5. You can raise an error when an invalid condition occurs:
@@ -103,8 +106,6 @@ Exception: The number should not exceed 5. (number=10)
 The program stops and displays the exception in your [terminal](https://realpython.com/terminal-commands/) or [REPL](https://realpython.com/python-repl/), providing useful information about what went wrong. Notice that the final call to `print()` was never executed, as Python raised the exception before reaching that line of code.
 
 Using the `raise` keyword, you can raise any exception object in Python, halting your program when an undesirable condition occurs.
-
-## Raising an Exception in Python
 
 # References and credits
 
