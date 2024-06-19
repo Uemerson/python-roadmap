@@ -5,7 +5,7 @@ The process of converting the value of one data type (integer, string, float, et
 - Implicit Conversion - automatic type conversion
 - Explicit Conversion - manual type conversion
 
-# Implicit Type Conversion
+## Implicit Type Conversion
 
 In certain situations, Python automatically converts one data type to another. This is known as implicit type conversion.
 
@@ -23,7 +23,7 @@ Observations:
 - We get TypeError, if we try to add str and int. For example, '12' + 23. Python is not able to use Implicit Conversion in such conditions.
 - Python has a solution for these types of situations which is known as Explicit Conversion.
 
-# Explicit Type Conversion
+## Explicit Type Conversion
 
 In Explicit Type Conversion, users convert the data type of an object to required data type.
 
@@ -42,7 +42,7 @@ Sum: 35
 Data type of num_sum: <class 'int'>
 ```
 
-# Key Points to Remember
+## Key Points to Remember
 
 - Type Conversion is the conversion of an object from one data type to another data type.
 - Implicit Type Conversion is automatically performed by the Python interpreter.
@@ -53,6 +53,31 @@ Data type of num_sum: <class 'int'>
 # Exceptions
 
 A Python program stops running immediately when it hits an error. These errors in Python can either be syntax errors or exceptions.
+
+## Understanding Exceptions and Syntax Errors
+
+Syntax errors occur when the parser identifies an incorrect statement. Consider the following example:
+
+```
+>>> print(0 / 0))
+  File "<stdin>", line 1
+    print(0 / 0))
+                ^
+SyntaxError: unmatched ')'
+```
+
+The arrow shows where the parser encountered the **syntax error**. Furthermore, the error message provides a clue about what went wrong. In this case, there was an extra bracket. Remove it and try running your code again:
+
+```
+>>> print(0 / 0)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ZeroDivisionError: division by zero
+```
+
+This time, you encountered an **exception error**. This type of error occurs when syntactically correct Python code produces an error. The last line of the message specifies the type of exception error you encountered.
+
+Instead of simply stating `exception error`, Python specifies the type of exception it encountered. In this instance, it was a `ZeroDivisionError`. Python includes [various built-in exceptions](https://docs.python.org/3/library/exceptions.html) and also allows for the creation of user-defined exceptions.
 
 # References and credits
 
