@@ -107,6 +107,21 @@ The program stops and displays the exception in your [terminal](https://realpyth
 
 Using the `raise` keyword, you can raise any exception object in Python, halting your program when an undesirable condition occurs.
 
+# Handling Exceptions With the try and except Block
+
+In Python, the try-except block is used to capture and manage exceptions. The code within the try block is executed normally by Python. The statements within the except block define how the program should react to any exceptions that occurred within the preceding try block.
+
+```
+try:
+  print('your code here')
+except:
+  print('execute this when there is a exception')
+```
+
+As mentioned previously, when Python encounters an error in syntactically correct code, it raises an exception. If unhandled, this exception can cause the program to terminate abruptly. The except clause allows you to specify how your program should react when such exceptions occur.
+
+In the script [linux_interaction.py](./scripts/linux_interaction.py), it demonstrates the usage of the try and except block.
+
 # References and credits
 
 The texts contained in the markdowns were obtained from the following sites:
